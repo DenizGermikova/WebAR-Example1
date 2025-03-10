@@ -1,1 +1,1 @@
-https://denizgermikova.github.io/WebAR-Example1/
+https://github.com/DenizGermikova/WebAR-Example1/tree/main
